@@ -40,3 +40,8 @@
 10. Link for your website or app if you are using any third party apps like wix.com, etc. 
 
    @framer.com
+11. Link for Video / ppt showing how the prototype works ( be as creative and innovative as possible ).  
+
+   https://framer.com/share/project--pg1ZXNDKjRrxJdIgaOAh - prototype
+   https://1drv.ms/u/s!AqcdWXZonuSpiA4oEo3Zdl_niXHM?e=JV8Fqf - video presentation
+   
